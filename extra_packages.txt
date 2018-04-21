@@ -1,3 +1,6 @@
 pip install OSMAlchemy
 pip install pyglet
 pip install geoplotlib
+
+
+#final todo setup file
