@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="298bb1ff-8e3d-4fc0-a53b-8d54a3b666e7" name="Default" comment="" />
+    <list default="true" id="298bb1ff-8e3d-4fc0-a53b-8d54a3b666e7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/maxim.txt" afterPath="$PROJECT_DIR$/maxim.txt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +52,11 @@
             <path>
               <item name="smartcities_badhersfeld" type="b2602c69:ProjectViewProjectNode" />
               <item name="smartcities_badhersfeld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smartcities_badhersfeld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smartcities_badhersfeld" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,9 +128,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/maxim.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="50">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/result2.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="2950">
+          <caret line="130" column="37" lean-forward="false" selection-start-line="130" selection-start-column="37" selection-end-line="130" selection-end-column="42" />
+          <caret line="129" column="37" lean-forward="false" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="42" />
+          <caret line="128" column="37" lean-forward="false" selection-start-line="128" selection-start-column="37" selection-end-line="128" selection-end-column="42" />
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="42" />
+          <caret line="119" column="37" lean-forward="false" selection-start-line="119" selection-start-column="37" selection-end-line="119" selection-end-column="42" />
+          <caret line="118" column="37" lean-forward="false" selection-start-line="118" selection-start-column="37" selection-end-line="118" selection-end-column="42" />
         </state>
       </provider>
     </entry>
