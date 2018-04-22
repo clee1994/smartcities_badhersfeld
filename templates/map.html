@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Map</title>
-</head>
-<body>
-    <img src="{{ user_image }}" alt="User Image">
-</body>
-</html>
+{% extends "base.html" %}
+{% block content %}
+    <img src="{{data}}">
+{% endblock %}

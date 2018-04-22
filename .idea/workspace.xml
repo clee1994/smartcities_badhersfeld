@@ -2,121 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40bf9d46-1e11-4030-9940-41c6bbdec152" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Max.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/New.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/010eb336-71f5-495f-ae51-32103f1ab1f9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/04187867-40e6-40a7-8e1a-6995c8e5b4b4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/0704ceeb-db39-480d-80f1-8996e9051b1f.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/07688ce6-235f-4761-a621-b4a94149afa5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/0ab9938e-0aa9-49cd-b9b5-68b77e6a97eb.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/0f16d991-4e94-4705-bd18-05ed45898081.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/0ff6a662-9656-446e-b192-c35d8847bfdb.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/1243988f-aee4-42b9-903e-58a81b733b68.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/13adb8fb-29b6-486d-ade1-fa80d463c6d4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/14c7a1f0-0e95-4323-8c46-41ced63a81aa.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/15a65699-2937-46a8-a02b-d2a0db1826b2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/169b4f7b-3419-4592-8a8a-1f36d73f088c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/173bb263-5b12-4402-b94a-b6f7f40a1a27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/196a0af8-0e32-442e-9c6b-ec83d0f0c99f.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/1a101cc7-2bc8-4211-b434-52df005564d6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/1bf033e4-90e7-4c86-9f03-b0244cbde2d0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/20259f87-bdb4-4f9e-81b7-9213ab823546.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/20bde679-4b90-4614-a274-569d773f4f3c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/25141306-79bd-4c93-8bfa-753542caa92e.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/25ef3f9c-06d0-43a3-b712-371479572c6b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/2799cb6e-1d1a-46c7-8cd3-937a6bbbf847.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/2a1b93f0-2245-4ab6-a72f-3d04318e5c92.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/2a7fce9a-ac61-4598-9085-a5e45aaad02f.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/2b270d2d-8b3c-4619-ad99-bad9e62c58d7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/2d723186-e817-4af2-b475-b7452cf1200d.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/2fe1d466-539d-4cbd-9a23-4f7b489755f4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/33d4da77-16f2-4bda-9104-63408f34b402.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/385e1991-cfb0-4a11-b607-faacd0fdb11a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/3a8acc78-631f-4843-a763-5ec93ded550d.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/3c5b66ed-25ab-4b26-85af-e8874bfae19c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/3ea083ac-2423-41af-a796-23c7ae3e92aa.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/3f4bdf32-ba4c-426e-8ee7-95d264c92b98.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/406a3771-0c17-4632-b658-c286e4c40ff9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/42fdfb72-24ef-47e4-bd3d-fac84bc0fda0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/435ebb5c-bb63-43af-b1e6-4b8c748aee19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/475c5579-6daf-4608-9206-aa507bb77c40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/4d5d8622-2147-415c-9768-4439d1bf3868.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/5284c162-c80d-469f-a699-9fad955e4fe2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/5e558718-299c-426f-9b0a-d91f17471821.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/61889614-952d-4922-972e-7e8062071cb0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/61fda4a1-6653-458a-bfe1-000fd640b71f.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/62eb7969-9a58-43d4-840f-d8f9f1e6cfa1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/63fe9c1f-b4a0-4deb-9597-a9ec408c5562.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/6aa78866-182a-4c1e-b38c-03f3c836aa69.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/6d64b28c-7344-40db-852f-136f9510ee8d.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/6dbbb873-6669-4441-8e83-b7b3e9a54bd1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/6dddf57d-a8b0-4540-a123-c1c1446b673d.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/713eaea6-c2d6-433f-bb79-c88ef447b7e1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/7bc57ca9-73de-4893-a48b-f5b2d4043dd2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/7effd5c7-8cb6-43d7-9382-0cfa315a5d42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/7faae353-93a2-4610-bd7d-c023730029da.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/811c2fce-6587-4546-bdb2-63a9a66e1a6c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/884f4434-d8ed-4532-a7df-b6d188fe268b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/88b345eb-9a3a-4141-8c69-24d8cd50004d.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/8d440807-bac4-4ce3-a025-c70c1f869e6b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/90a2cce2-29f2-479e-904b-040f96ab3cb8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/942c10ca-d7c2-471e-bef1-ad0e85a71941.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/9453cba5-806e-47bf-ac2f-0b48d805e601.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/94eff655-25a1-44bb-bca5-95647f2eca82.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/95a706a5-1627-4f52-84d8-1baa589f094c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/9903fc76-6eca-46b3-9a5f-7a4dd6a7747b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/990e608b-6498-4077-b423-6a18e86c19f7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/99d06ee6-2fe8-491f-a8a0-a5ecb96cc652.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/9aea9d16-0141-4c48-8fa3-cf53cfab8d72.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/9bb82c13-5ee5-4af2-801b-62f8aa024a41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/a320236f-f4f1-4dcf-8035-66482ad84d4e.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/a81660ad-895f-4563-ae63-6133ae6f917a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/a9ffce6b-5cc6-459a-9881-91f66cc160a0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/ab9673d6-6743-4f4c-8fe9-0bd86fb8f3bd.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/af86b506-c5c1-4661-a919-2b0ae79c9157.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/b5c1c0f6-1d18-4840-b630-875fbdc8909e.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/b831098a-eb08-4c0b-8e6f-003e76f727fa.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/bd0b3cb5-e036-4ee0-a03c-025d7a6520ff.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/bd5d1aa5-460e-47b9-8e2b-582e3f984f3a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/be9c83bf-0134-4661-8b89-c839d26fa3f5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/c10b2bda-49b7-4d61-bff5-396ea487392a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/c742fcf8-abfe-4cea-9a5b-a08d7011c071.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/c800f2d2-a040-4055-b551-016787e116c3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/c99d9753-69cc-498b-9b3b-118024232a0a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/ca20a51c-29e3-4af1-81c8-f8343a054a87.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/ca78adbd-d9ed-4b87-be08-084e27adf742.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/cbb0974f-8e6f-445b-bfeb-9b63606e8cb9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/ce13eaa5-5d69-4d8c-b23c-d072bb8204be.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/d80ab579-2ce7-4204-abfb-2f5227dbc991.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/d9c57a6d-bb26-48fb-bbd1-b8318cc3bf1b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/da88d01b-408f-4732-9533-aad8b27afd0e.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/e1bb6682-811d-4641-add8-cecca2df8621.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/e4f6c915-42b3-49e4-a96d-d7a0e4ce07f8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/eadf0058-0c32-4d0d-a085-01ec2a00f850.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/f2d48161-4ebd-46aa-bd8e-7f67cba63625.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/f3bfafc8-7acc-42b2-8a82-ad870570bae2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/f894c594-0562-48c5-b14e-1503ba7ec97c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/facd3304-4333-478b-999c-c906805a255a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BDHData/fcb25ab7-feba-4b34-b94f-93cf97b9a858.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/039f592c-26d2-43f8-94b6-2895a61bc641" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/213691bc-8ef0-4357-ba8c-8c18ee137319" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/23343fb6-b1e3-405f-b713-f064f8339050" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/4e6a9f3a-e8c0-4c6e-8cfd-9353c1972859" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/4ea68645-3879-4add-b806-c18a1626a0bf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/55ed78a2-2295-4c94-912a-af07204bf7a2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/5bf5b5a8-6932-445c-aff1-13511ad2aba9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/769a4fee-3628-42b6-861f-94bf9119cb6b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/809ddf6b-1c9a-4b0c-b112-49946baf871d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/9c642ff2-31f5-425f-8153-f2bd1b24687b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/dd204848-f607-4445-b81a-1c2f83cb3cc3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/e1d3d858-7840-47fd-85a2-0693c84f46cb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/e8efa881-523c-4c34-8d9c-d61b9880bed6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/f33fddf3-8491-474c-a8db-24c8503a15de" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/BadHersfeldNoise/fa699625-9b47-4f7b-be91-4f2444165eb6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/test/4e6a9f3a-e8c0-4c6e-8cfd-9353c1972859.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generate_graph.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first_try.py" afterPath="$PROJECT_DIR$/first_try.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/noise.ipynb" afterPath="$PROJECT_DIR$/noise.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/map.html" afterPath="$PROJECT_DIR$/templates/map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.py" afterPath="$PROJECT_DIR$/web.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -127,11 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="web.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="web.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="route.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/route.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -140,38 +43,8 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/flask/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33507">
+            <state relative-caret-position="340">
               <caret line="1996" column="0" lean-forward="false" selection-start-line="1996" selection-start-column="0" selection-end-line="1996" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="serving.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/werkzeug/serving.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3978">
-              <caret line="239" column="0" lean-forward="false" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="socketserver.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/socketserver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5831">
-              <caret line="347" column="0" lean-forward="false" selection-start-line="347" selection-start-column="0" selection-end-line="347" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/http/server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6817">
-              <caret line="418" column="0" lean-forward="false" selection-start-line="418" selection-start-column="0" selection-end-line="418" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -180,11 +53,41 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="187">
+              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
-                <element signature="e#1203#1209#0" expanded="true" />
+                <element signature="e#1143#1149#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -192,8 +95,8 @@
       <file leaf-file-name="map.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="49" />
+            <state relative-caret-position="34">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -209,20 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery-1.11.2.min.map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/jquery-1.11.2.min.map">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="363">
               <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding />
             </state>
@@ -253,9 +146,13 @@
         <option value="$PROJECT_DIR$/static/index.css" />
         <option value="$PROJECT_DIR$/static/js/jquery-3.3.1.min.js" />
         <option value="$PROJECT_DIR$/static/js/signUp.js" />
-        <option value="$PROJECT_DIR$/templates/map.html" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/web.py" />
+        <option value="$PROJECT_DIR$/static/css/main.css" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/map.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
@@ -309,6 +206,12 @@
               <item name="smartcities_badhersfeld" type="b2602c69:ProjectViewProjectNode" />
               <item name="smartcities_badhersfeld" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smartcities_badhersfeld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smartcities_badhersfeld" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -345,7 +248,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.web">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="smartcities_badhersfeld" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="smartcities_badhersfeld" type="Python.Ipnb" factoryName="Jupyter Notebook">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -379,13 +299,15 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.smartcities_badhersfeld" />
       <item index="1" class="java.lang.String" itemvalue="Python.web" />
+      <item index="2" class="java.lang.String" itemvalue="Python.app" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.web" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.web" />
       </list>
     </recent_temporary>
   </component>
@@ -442,18 +364,25 @@
       <option name="project" value="LOCAL" />
       <updated>1524327699158</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge branch 'master' of https://github.com/clee1994/smartcities_badhersfeld&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1524382712915</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1524382712915</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16617863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16617863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.37115666" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49121523" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.511713" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.48828697" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.62884337" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.62518305" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -478,7 +407,8 @@
     <MESSAGE value="FIRST COMMIT TEST" />
     <MESSAGE value="ipython initial commit" />
     <MESSAGE value="web commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="web commit" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/clee1994/smartcities_badhersfeld&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/clee1994/smartcities_badhersfeld&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -532,7 +462,7 @@
         <state relative-caret-position="459">
           <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding>
-            <element signature="e#1203#1209#0" expanded="true" />
+            <element signature="e#1143#1149#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -614,7 +544,7 @@
         <state relative-caret-position="459">
           <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding>
-            <element signature="e#1203#1209#0" expanded="true" />
+            <element signature="e#1143#1149#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -703,14 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33507">
-          <caret line="1996" column="0" lean-forward="false" selection-start-line="1996" selection-start-column="0" selection-end-line="1996" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/http/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6817">
@@ -735,22 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/signUp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/werkzeug/serving.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3978">
@@ -759,28 +665,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/signUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="363">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        <state relative-caret-position="187">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
-            <element signature="e#1203#1209#0" expanded="true" />
+            <element signature="e#1143#1149#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda3/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="1996" column="0" lean-forward="false" selection-start-line="1996" selection-start-column="0" selection-end-line="1996" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/route.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
