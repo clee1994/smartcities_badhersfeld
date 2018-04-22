@@ -44,3 +44,10 @@ body {
     margin-right: auto;
     width: 50%;
 }
+
+.center-map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
