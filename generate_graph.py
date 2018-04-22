@@ -30,10 +30,15 @@ def noise_comput(i, frame, graph):
 	total_dist = np.sum(dist)
 
 	noise_temp = 0
+	weigth_no = []
 	for i in range(len(dist)):
-		noise_temp = noise_temp + ((dist[i]/total_dist))*noise_array[i]
+		weigth_no.append( (1-(dist[i]/total_dist)))
 
-	import pdb; pdb.set_trace()
+	noise_temp = 0
+	for i in range(len(dist)):
+		noise_temp = noise_temp + (weigth_no[i]/np.sum(weigth_no)) *noise_array[i]
+
+	#import pdb; pdb.set_trace()
 
 	return noise_temp
 
