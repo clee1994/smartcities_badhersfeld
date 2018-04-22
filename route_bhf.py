@@ -61,7 +61,7 @@ def create_route(orig_xy, target_xy):
 
 	#orig_xy(orig_point.y, orig_point.x)
 
-	fig, ax = ox.plot_graph_route(graph, route, origin_point=orig_xy, destination_point=target_xy,show=False)
+	fig, ax = ox.plot_graph_route(graph, route, origin_point=orig_xy, destination_point=target_xy,show=False,axis_off=False)
 	fig.savefig('./static/'+unique_filename+".png")
 
 
