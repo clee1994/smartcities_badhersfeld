@@ -9,7 +9,6 @@ import networkx as nx
 
 import random
 
-from tqdm import tqdm
 
 
 from scipy import spatial
